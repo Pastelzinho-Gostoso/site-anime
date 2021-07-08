@@ -2,13 +2,12 @@ html {
  	scroll-behavior: smooth;
 }
 .sobe {
-	width: 30px;
-	background: silver;	
-	padding: 15px 10px 15px 10px;
-	border-radius: 30px;
+	padding: 5px;
+	background: silver;
+	border-radius: 100px;
 	display: inline;
 	position: fixed;
-	right: 0;
+	right: 10px;
 	top: 500px;
 	transition: background 0.25s;
 }
