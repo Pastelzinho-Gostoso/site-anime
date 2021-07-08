@@ -1,2 +1,1 @@
-# site-anime
-Projeto Site Animes
+# https://pastelzinho-gostoso.github.io/site-anime/
